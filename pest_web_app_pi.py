@@ -12,8 +12,8 @@ from email.mime.image import MIMEImage
 from flask import Flask, request, render_template_string, redirect, Response, url_for, flash
 
 # --- 🔧 CONFIGURATION ---
-EMAIL_SENDER = "samarthkottary@gmail.com"
-EMAIL_PASSWORD = "qbxn hbom cont vpdv"
+EMAIL_SENDER = "your_email@gmail.com"
+EMAIL_PASSWORD = "your_app_password"
 
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
 PEST_MIN_AREA = 100
