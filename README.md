@@ -42,8 +42,8 @@ This project helps you monitor your crops or home plants remotely. It hosts a lo
 
 1. **Clone this Repository**
 ```bash
-git clone https://github.com/yourusername/pi-leaf-pest-detection.git
-cd pi-leaf-pest-detection
+git clone https://github.com/SamarthKottary/Raspberry-pi-leaf-pest-detection.git
+cd Raspberry-pi-leaf-pest-detection
 
 ```
 
