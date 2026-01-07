@@ -2,3 +2,4 @@ venv/
 __pycache__/
 detected_pests/
 *.pyc
+venv/pycache/detected_pests/*.pyc*.DS_Store
